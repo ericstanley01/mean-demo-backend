@@ -41,7 +41,6 @@ testem.log
 
 # Environment variables
 *.yml
-*.env
 
 # System Files
 .DS_Store
