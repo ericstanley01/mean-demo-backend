@@ -12,7 +12,7 @@ cloudinary.config({
 
 var storage = cloudinaryStorage({
   cloudinary: cloudinary,
-  folder: 'mean-demo', // cloudinary folder where you want to store images, empty is root
+  folder: process.env.CLOUDINARY_FOLDER_NAME, // cloudinary folder where you want to store images, empty is root
   allowedFormats: ['jpg', 'png'],
 });
 
