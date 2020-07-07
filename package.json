@@ -10,7 +10,7 @@
     "connect-multiparty": "^1.1.0",
     "datauri": "^2.0.0",
     "dotenv": "^8.2.0",
-    "ejs": "^1.0.0",
+    "ejs": "^2.5.5",
     "ejs-locals": "^1.0.2",
     "express": "^4.16.4",
     "hammerjs": "^2.0.8",
