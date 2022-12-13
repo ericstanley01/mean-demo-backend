@@ -12,7 +12,7 @@
     "dotenv": "^8.2.0",
     "ejs": "^1.0.0",
     "ejs-locals": "^1.0.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "hammerjs": "^2.0.8",
     "jsonwebtoken": "^8.5.0",
     "jugglingdb": "^1.0.1",
